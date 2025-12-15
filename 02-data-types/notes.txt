@@ -1,0 +1,31 @@
+📘 JavaScript Notes — Data Types
+
+📂 Topic:
+JavaScript Data Types
+
+✅ Concept Summary:
+Data types define the kind of values a variable can hold. They determine how JavaScript stores and handles information.
+
+💡 Key Points:
+
+🔹 Primitive Data Types:
+1. **String** → Text inside quotes. Example: "Hello", 'World'
+2. **Number** → Numeric values (integers or decimals)
+3. **Boolean** → Logical values: true or false
+4. **Undefined** → Variable declared but no value assigned
+5. **Null** → Represents an empty or unknown value
+6. **Symbol** → Unique identifier (used in advanced cases)
+7. **BigInt** → Very large integer numbers
+
+🔹 Non-Primitive Data Type:
+- **Object** → A collection of related data in key-value pairs. Arrays and functions are also objects.
+
+🧠 Example:
+
+let name = "Azmeraw";     // String
+let age = 25;             // Number
+let isEngineer = true;    // Boolean
+let address;              // Undefined
+let goal = null;          // Null
+let person = { name: "Azmeraw", country: "Ethiopia" }; // Object
+let skills = ["HTML", "CSS", "JavaScript"]; // Array

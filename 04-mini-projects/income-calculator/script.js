@@ -1,0 +1,11 @@
+let monthlyIncome = 15000;
+let rent = 4000;
+let food = 2500;
+let transport = 1000;
+let savings = 2000;
+let totalExpenses = rent + food + transport + savings;
+let balance = monthlyIncome - totalExpenses;
+console.log( "Monthly Summary");
+console.log("Total Income:" , monthlyIncome);
+console.log("Total Expenses:" , totalExpenses);
+console.log("Remaining Balance:" , balance);

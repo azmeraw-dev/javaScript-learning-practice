@@ -1,0 +1,50 @@
+📘 JavaScript Notes — Operators
+
+📂 Topic:
+Operators in JavaScript
+
+✅ Concept Summary:
+Operators are symbols that perform actions on variables and values. They are essential for calculations, comparisons, and logic in programming.
+
+💡 Types of Operators:
+
+🔹 1. Arithmetic Operators
+Used for mathematical operations.
++  Addition
+-  Subtraction
+*  Multiplication
+/  Division
+%  Remainder (modulus)
+** Exponentiation
+
+🔹 2. Assignment Operators
+Used to assign or update variable values.
+=   Assign
++=  Add and assign
+-=  Subtract and assign
+*=  Multiply and assign
+/=  Divide and assign
+
+🔹 3. Comparission Operators
+Used to compare values (returns true or false).
+==   Equal (value)
+===  Strict equal (value + type)
+!=   Not equal
+!==  Strict not equal
+>    Greater than
+<    Less than
+>=   Greater or equal
+<=   Less or equal
+
+ 🔹 4. Logical Operators
+ Used to combine multiple conditions.
+ &&  AND
+||  OR
+!   NOT
+
+🔹 5. String Operator
+The + operator joins (concatenates) two strings.
+let fullName = firstName + " " + lastName;
+
+
+
